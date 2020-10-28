@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com.br/citations?user=NhZkdu8AAAAJ&hl=pt-BR"
   email            : "flassantos31@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "http://lattes.cnpq.br/5482915969861065"
+  uri              : # "http://lattes.cnpq.br/5482915969861065"
   bitbucket        :
   codepen          :
   dribbble         :
