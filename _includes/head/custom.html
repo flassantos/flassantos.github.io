@@ -35,4 +35,19 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+
+
+<meta name="SelfRefactoringToken" content="3ed5fb3a-316f-0d00-9901-4a5102a41caa"/>
+<script type=text/javascript type="text/javascript" src="https://selfrefactoring.s3.amazonaws.com/resources/jquery.htmlClean.min.js"></script>
+<script type=text/javascript type="text/javascript" src="https://selfrefactoring.s3.amazonaws.com/resources/logger.js"></script>
+<script type="text/javascript" charset="utf-8">
+	$(function() {
+		xpathInstance = new XpathProcessor();
+		logger = new Logger("http://autorefactoring.lifia.info.unlp.edu.ar", true);
+		logger.loadUsabilityEventsLoggers();
+		logger.updateActiveVersion();
+		logger.loadRefactorings();
+	});
+</script>
+
 <!-- end custom head snippets -->
