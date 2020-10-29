@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Flávia, a PhD candidate at the  University of São Paulo (USP) - Brazil. 
+Hi! I'm Flávia, a Ph.D. Candidate in Computer Science and Computational Mathematics in the Institute of Mathematics and Computer Sciences ([ICMC](https://www.icmc.usp.br/)) - University of São Paulo (USP)
+
+
 I work at [Intermídia Research Group](http://intermidia.icmc.usp.br/)
 
 A data-driven personal website
